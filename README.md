@@ -10,4 +10,4 @@
   
 
 - 💞️ I’m looking to collaborate on projects that make impact. 
-- 📫 I am curios to hear back from you.
+- 📫 I am curious to hear back from you.
