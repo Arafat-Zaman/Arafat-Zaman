@@ -6,7 +6,7 @@
 
     BackEnd: .NET, Java
     FrontEnd: Js, Ajs, React
-    DB: SQL Server, MySQL, Casandra  
+    DB: SQL Server, MySQL, Cassandra  
   
 
 - 💞️ I’m looking to collaborate on projects that make impact. 
