@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arafat Zaman</h1>
+<h1 align="center">Hi 👋, I'm Arafat Zaman Anik</h1>
 <h3 align="center">A full stack software engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
